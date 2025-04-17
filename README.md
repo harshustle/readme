@@ -12,7 +12,7 @@
 - 💬 Ask me about: **Web Dev | Freelancing | Productivity hacks**
 - 📫 How to reach me: `hsrivastav099@gmail.com`
 - 💼 Portfolio: [My Portfolio Website](https://your-portfolio-link.com) *(Coming soon!)*
-- 📸 Instagram (Media): [@ixhustle](https://instagram.com/ixhustle)
+- 📸 Instagram (Media): [@harshustle](https://instagram.com/harshustle)
 
 ---
 
