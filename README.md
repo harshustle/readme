@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Harsh Srivastav</h1>
-<h3 align="center">A passionate Full-Stack Web Developer & Creative Builder</h3>
+<h1 align="center">Hey there! 👋 I'm Harsh Srivastav</h1>
+<h3 align="center">aka harshustle — Full-Stack Developer | SaaS Builder | Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Innovate.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=440&lines=Code+like+a+Craftsman.;Build+like+a+Hustler.;Deploy+like+a+Pro."/>
 </p>
 
 ---
 
-- 🔭 I’m currently working on: **SaaS Tools, Automation Projects & Clean UI Web Apps**
-- 🌱 Currently learning: **MongoDB | AI integrations | Serverless**
-- 💬 Ask me about: **Web Dev | Freelancing | Productivity hacks**
-- 📫 How to reach me: `hsrivastav099@gmail.com`
-- 💼 Portfolio: [My Portfolio Website](https://your-portfolio-link.com) *(Coming soon!)*
-- 📸 Instagram (Media): [@harshustle](https://instagram.com/harshustle)
+- 🔭 I’m currently building: **SaaS tools, automation projects & client websites**
+- 🧠 Learning: **MongoDB | Twilio | AI APIs | Serverless Tech**
+- 🌱 Open to freelance & collab opportunities
+- 📫 Connect with me: `hsrivastav099@gmail.com`
+- 🎯 Goal for 2025: Launch my own product 🚀
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,firebase,tailwind" />
 </p>
 
 ---
@@ -34,16 +33,31 @@
   <img src="https://streak-stats.demolab.com?user=harshustle&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshustle&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:hsrivastav099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/harshustle"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/ixhustle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 📌 Fun Fact
+
+> I'm not a magician, but I can turn chai & code into websites ✨☕💻
+
 ---
 
 ### 🧠 Quote I Live By
 
-> “The best way to predict the future is to create it.” – Peter Drucker
-
----
-
-### ⚡ Fun Fact
-I can turn a cup of chai and a keyboard into web magic ☕💻
+> "Discipline is choosing between what you want now and what you want most."
 
 ---
 
